@@ -1,0 +1,62 @@
+Protel Design System Design Rule Check
+PCB File : D:\D\WorkSpace\Audio\Altium\Plata_1_v2.PcbDoc
+Date     : 31.08.2016
+Time     : 15:39:46
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=1.3mm) (Preferred=0.3mm) ((InNet('GND') OR InNet('VCC 3.3V') OR InNet('VCC 5V')))
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm)  and Width Constraints (Min=0.381mm) (Max=0.381mm) (Preferred=0.381mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=10mm) (All)
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.254mm, Vertical Gap = 0.254mm ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=1.5mm) (Preferred=0.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.17mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.2mm) (MaxHoleWidth=10mm) (PreferredHoleWidth=0.3mm) (MinWidth=0.45mm) (MaxWidth=10mm) (PreferedWidth=0.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) ((ObjectKind = 'Pad') And (Component = 'U3_AUDIN4')  And (Component = 'U3_AUDIN3')  And (Component = 'U3_AUDIN2')  And (Component = 'U3_AUDIN1')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) ((InNet('GND') OR InNet('VCC 3.3V'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) ((ObjectKind = 'Component') And (Name = 'Designator1')),(All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:01

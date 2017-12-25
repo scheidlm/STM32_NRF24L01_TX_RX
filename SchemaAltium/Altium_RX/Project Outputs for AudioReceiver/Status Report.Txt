@@ -1,0 +1,9 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [AudioReceiver.PrjPcb]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 22:48:53 On 26.08.2016

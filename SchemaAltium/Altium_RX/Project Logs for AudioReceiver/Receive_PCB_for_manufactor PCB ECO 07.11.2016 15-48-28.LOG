@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC 3.6V Pin=C2-1
+Removed Pin From Net: NetName=VCC 3.6V Pin=D1-6
+Added Pin To Net: NetName=NetC20_2 Pin=C2-1
+Added Pin To Net: NetName=NetC20_2 Pin=D1-6
+Change Net Name : Old Net Name=NetC20_2 New Net Name=VCCA 3.6V

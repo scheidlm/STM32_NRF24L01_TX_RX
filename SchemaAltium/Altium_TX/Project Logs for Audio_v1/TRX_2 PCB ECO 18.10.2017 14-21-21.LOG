@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=IRQ Pin=U2-16
+Removed Pin From Net: NetName=CE Pin=U2-17
+Removed Pin From Net: NetName=CSN Pin=U2-20
+Added Pin To Net: NetName=CSN Pin=U2-37
+Added Pin To Net: NetName=CE Pin=U2-38
+Added Pin To Net: NetName=IRQ Pin=U2-39

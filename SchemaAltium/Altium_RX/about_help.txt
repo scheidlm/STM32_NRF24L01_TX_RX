@@ -1,0 +1,62 @@
+
+
+Use  capacitors  with low-voltage  coefficient  dielectrics.  Aluminum  electrolytic,
+tantalum,  or  film  dielectric  capacitors  are  good  choices
+for  AC-coupling  capacitors.
+ Capacitors  with  high-voltage
+coefficients, such as ceramics (non-C0G dielectrics), can
+result in increased distortion at low frequencies
+
+THE DEVICE HAS BEEN CONFIGURED WITH AN ATTACK TIME OF 1.1ms, 40dB GAIN, AND AN ATTACK-AND-RELEASE RATIO OF 1:500
+http://blog.saikoled.com/post/43848946860/schematic-of-microphone-and-pre-amp-for-low-noise
+
+
+A value of 2.2k? is usually sufficient
+for a microphone of typical sensitivity. Consult the micro-
+phone data sheet for the recommended bias resistor.
+
+
+
+For the STM32F030F4P6 Chip I have done following connections
+VDD & VDDA to 3.3V
+VSS to GND
+BOOT open
+NRST Connected to ground through capacitor.
+and
+Connection with Discovery
+SWDIO, SDCLK and GND connected from chip.
+
+I would:
+Connect NRST to my debug interface
+Have a pull-up on NRST
+Have a pull-down on BOOT0
+
+Pin 1 Ц VCC:
+    This is the traget board Vcc. It is used by the STLINK/V2
+Pin 7 Ц TMS/SWDIO:
+    The SWD Data signal
+Pin 8 Ц GND:
+    Be sure there is a common ground
+Pin 9 Ц TCK/SWCLK
+    The SWD Clock Signal
+Pin 15 Ц nSRST/RESET
+    System reset Ц probably optional
+
+
+
+—табилизаторы:
+NCP551SN33T1G  [0.15 A, падение 0.04-0.15 V, Uвх до 12 V] (ссылка)
+LP2950ACZ-3.3  [0.1 A, падение 0.35 V, Uвх до 30 V] (ссылка)
+MCP1702T-3302E/CB  [ 0.25 A, падение 0.97 V, Uвх до 13.2 V] (ссылка)
+
+Ћитература:
+http://cxem.net/mc/mc398.php
+ http://alex-exe.ru/radio/stm32/stm32-lcd-hd44780-spl/
+ http://embedded-lab.com/blog/stm32-adc-2/
+ http://stm32f4-discovery.net/2015/07/hal-library-15-hd44780-for-stm32fxxx/
+ http://blog.saikoled.com/post/43848946860/schematic-of-microphone-and-pre-amp-for-low-noise
+ https://cdn-shop.adafruit.com/datasheets/MAX9814.pdf
+ http://shukra.cedt.iisc.ernet.in/edwiki/Audio_Spectrum_Analyzer
+ http://stm32f4-discovery.net/2014/10/stm32f4-fft-example/
+ 
+

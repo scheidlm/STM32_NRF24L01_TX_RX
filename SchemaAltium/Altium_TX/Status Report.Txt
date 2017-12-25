@@ -1,0 +1,21 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 13:01:37 On 06.09.2016
+
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [Plata_1_v2.PcbDoc]
+   Generated File[Plata_1_v2.GTL]
+   Generated File[Plata_1_v2.GBL]
+   Generated File[Plata_1_v2.GTO]
+   Generated File[Plata_1_v2.GBO]
+   Generated File[Plata_1_v2.GKO]
+   Generated File[Plata_1_v2.RUL]
+   Generated File[Plata_1_v2.EXTREP]
+   Generated File[Plata_1_v2.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 13:01:39 On 06.09.2016

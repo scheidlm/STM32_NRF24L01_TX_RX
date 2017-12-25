@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=VCC 3.3V Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=VCC 3.3V Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=VCC 3.3V Pin=C23-2
+Removed Member From Class: ClassName=Transmitter Member=C18
+Removed Member From Class: ClassName=Transmitter Member=C21
+Removed Member From Class: ClassName=Transmitter Member=C23

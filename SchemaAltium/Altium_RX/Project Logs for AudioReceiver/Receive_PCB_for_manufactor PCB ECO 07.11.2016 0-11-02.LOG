@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CE Pin=U1-30
+Removed Pin From Net: NetName=CSN Pin=U1-31
+Added Pin To Net: NetName=CSN Pin=U1-30
+Added Pin To Net: NetName=CE Pin=U1-31

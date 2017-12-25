@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=VCCA 3.6V Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=NetC10_1 Pin=C10-1
+Removed Pin From Net: NetName=NetC10_2 Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=OSC_IN Pin=C11-2
+Removed Pin From Net: NetName=VCC 3.6V Pin=L2-1
+Removed Pin From Net: NetName=VCCA 3.6V Pin=L2-2
+Removed Pin From Net: NetName=NetC10_1 Pin=R2-1
+Removed Pin From Net: NetName=NetC9_2 Pin=R2-2
+Removed Pin From Net: NetName=OSC_OUT Pin=R9-2
+Removed Member From Class: ClassName=Transmitter Member=R20
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Added Component: Designator=C3(EL Case A (3216-18))
+Added Component: Designator=C4(EL Case A (3216-18))
+Added Component: Designator=C5(EL Case A (3216-18))
+Added Component: Designator=C10(C_0805)
+Added Component: Designator=C11(C_0805)
+Added Component: Designator=L2(L_SMD_4.8)
+Added Component: Designator=R2(R0805)
+Added Pin To Net: NetName=VCC 3.6V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetC2_2 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=VCCA 3.6V Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=OSC_IN Pin=C11-2
+Added Pin To Net: NetName=OSC_OUT Pin=C12-2
+Added Pin To Net: NetName=VCC 3.6V Pin=L2-1
+Added Pin To Net: NetName=VCCA 3.6V Pin=L2-2
+Added Pin To Net: NetName=OSC_OUT Pin=Q1-2
+Added Pin To Net: NetName=NetC10_1 Pin=R2-1
+Added Pin To Net: NetName=NetC9_2 Pin=R2-2
+Added Member To Class: ClassName=Transmitter Member=Component C3 4.7u
+Added Member To Class: ClassName=Transmitter Member=Component C4 4.7u
+Added Member To Class: ClassName=Transmitter Member=Component C5 4.7u
+Added Member To Class: ClassName=Transmitter Member=Component C6 4.7u
+Added Member To Class: ClassName=Transmitter Member=Component C10 100nF
+Added Member To Class: ClassName=Transmitter Member=Component C11 20pF
+Added Member To Class: ClassName=Transmitter Member=Component R2 3k
+Added Member To Class: ClassName=Transmitter Member=Component SB3 TS06V

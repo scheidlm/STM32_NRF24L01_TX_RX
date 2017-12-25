@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: TRX_2.PcbDoc   19.10.2017  16:02:20
+---------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : NC Drill Files.TXT
+EIA File   : NC Drill Files.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.8mm (31.496mil)        Round          18               169.82 mm (6.69 Inch)
+T2        0.9mm (35.433mil)        Round          55               408.91 mm (16.10 Inch)
+T3        1mm (39.37mil)           Round          13               72.54 mm (2.86 Inch)
+T4        1.3208mm (52mil)         Round          2                17.80 mm (0.70 Inch)
+T5        1.5mm (59.055mil)        Round          7                155.10 mm (6.11 Inch)
+T6        2.4mm (94.488mil)        Round          2                5.63 mm (0.22 Inch)
+T7        2.5mm (98.425mil)        Round          6                36.38 mm (1.43 Inch)
+T8        2.6mm (102.362mil)       Round          1                0.00 mm (0.00 Inch)
+T9        6mm (236.22mil)          Round          4                311.55 mm (12.27 Inch)
+---------------------------------------------------------------------------
+Totals                                            108              1177.74 mm (46.37 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

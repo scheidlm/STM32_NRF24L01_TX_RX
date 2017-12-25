@@ -1,0 +1,17 @@
+Added Component: Designator=U3_AUDIN4(DFN300X300X80-15N)
+Added Pin To Net: NetName=NetC28_AUDIN4_2 Pin=U3_AUDIN4-1
+Added Pin To Net: NetName=VCC 3.3V Pin=U3_AUDIN4-2
+Added Pin To Net: NetName=NetC31_AUDIN4_2 Pin=U3_AUDIN4-3
+Added Pin To Net: NetName=GND Pin=U3_AUDIN4-4
+Added Pin To Net: NetName=VCC 3.3V Pin=U3_AUDIN4-5
+Added Pin To Net: NetName=NetC27_AUDIN4_2 Pin=U3_AUDIN4-6
+Added Pin To Net: NetName=GND Pin=U3_AUDIN4-7
+Added Pin To Net: NetName=NetC26_AUDIN4_1 Pin=U3_AUDIN4-8
+Added Pin To Net: NetName=NetH4_AUDIN4_2 Pin=U3_AUDIN4-9
+Added Pin To Net: NetName=VCC 3.3V Pin=U3_AUDIN4-10
+Added Pin To Net: NetName=GND Pin=U3_AUDIN4-11
+Added Pin To Net: NetName=NetC29_AUDIN4_2 Pin=U3_AUDIN4-12
+Added Pin To Net: NetName=NetR25_AUDIN4_1 Pin=U3_AUDIN4-13
+Added Pin To Net: NetName=NetR25_AUDIN4_2 Pin=U3_AUDIN4-14
+Added Pin To Net: NetName=GND Pin=U3_AUDIN4-15
+Added Member To Class: ClassName=AUDIN4 Member=Component U3_AUDIN4 (U3) MAX9814ETD+T

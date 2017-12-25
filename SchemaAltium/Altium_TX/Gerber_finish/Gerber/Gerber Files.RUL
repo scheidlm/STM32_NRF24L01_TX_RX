@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: D:\D\WorkSpace\Audio\Altium_trans_v2\TRX_2.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_U3_0.1mm|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance_GND_PWR_0.7mm|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=3.3V_GND|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_poly_0.5|Scope=Board|Minimum=19.69

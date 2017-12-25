@@ -1,0 +1,5 @@
+Added Component: Designator=SA1(switchSplit_13mm)
+Added Pin To Net: NetName=NetJ1_3 Pin=SA1-1
+Added Pin To Net: NetName=NetP1_1 Pin=SA1-2
+Added Pin To Net: NetName=VCC 3.6V Pin=SA1-3
+Added Member To Class: ClassName=Transmitter Member=Component SA1 switchSlide

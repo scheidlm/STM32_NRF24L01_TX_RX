@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetHG1_3 Pin=HG1-3
+Removed Pin From Net: NetName=NetHG1_4 Pin=HG1-4
+Removed Pin From Net: NetName=NetHG1_8 Pin=HG1-8
+Removed Pin From Net: NetName=NetHG1_8 Pin=R7-1
+Removed Pin From Net: NetName=NetHG1_2 Pin=R11-1
+Removed Pin From Net: NetName=NetHG1_3 Pin=R12-1
+Added Pin To Net: NetName=G Pin=HG1-3
+Added Pin To Net: NetName=NetHG1_3 Pin=HG1-4
+Added Pin To Net: NetName=NetHG1_4 Pin=HG1-8
+Added Pin To Net: NetName=B Pin=HG1-9
+Added Pin To Net: NetName=NetHG1_8 Pin=HG1-10
+Added Pin To Net: NetName=NetHG1_2 Pin=R5-1
+Added Pin To Net: NetName=G Pin=R6-1
+Added Pin To Net: NetName=NetHG1_3 Pin=R7-1
+Added Pin To Net: NetName=B Pin=R11-1
+Added Pin To Net: NetName=NetHG1_8 Pin=R12-1
+Change Net Name : Old Net Name=NetHG1_2 New Net Name=F
+Change Net Name : Old Net Name=NetHG1_3 New Net Name=E
+Change Net Name : Old Net Name=NetHG1_4 New Net Name=C
+Change Net Name : Old Net Name=NetHG1_5 New Net Name=D
+Change Net Name : Old Net Name=NetHG1_8 New Net Name=A

@@ -1,0 +1,57 @@
+PCAD Importer Log
+Project : MAX9814ETD_T.LibPkg
+
+Section : D:\D\WorkSpace\Audio\AltiumLib\MAX9814ETD_T.lia
+    Section : PCB Library - MAX9814ETD_T.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MAX9814ETD+T On Line 106
+            Warning - 1 : Skipping Token attachedSymbol On Line 276
+        EndSection
+
+        Section : Import Messages
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+        EndSection
+    EndSection
+
+    Section : SCH Library - MAX9814ETD_T.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 72
+            Warning - 1 : Skipping Token layerContents On Line 89
+            Warning - 1 : Skipping Token layerContents On Line 93
+        EndSection
+
+        Section : Generating SCH Library - MAX9814ETD_T.SchLib
+        EndSection
+    EndSection
+EndSection

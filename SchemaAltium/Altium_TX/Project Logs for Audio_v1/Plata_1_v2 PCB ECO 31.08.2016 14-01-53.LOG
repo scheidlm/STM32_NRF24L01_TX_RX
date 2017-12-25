@@ -1,0 +1,68 @@
+Added Component: Designator=U3_AUDIN1(DFN300X300X80-15N)
+Added Component: Designator=U3_AUDIN2(DFN300X300X80-15N)
+Added Component: Designator=U3_AUDIN3(DFN300X300X80-15N)
+Added Component: Designator=U3_AUDIN4(DFN300X300X80-15N)
+Added Pin To Net: NetName=NetC28_AUDIN1_2 Pin=U3_AUDIN1-1
+Added Pin To Net: NetName=VCC 3.3V Pin=U3_AUDIN1-2
+Added Pin To Net: NetName=NetC31_AUDIN1_2 Pin=U3_AUDIN1-3
+Added Pin To Net: NetName=GND Pin=U3_AUDIN1-4
+Added Pin To Net: NetName=VCC 3.3V Pin=U3_AUDIN1-5
+Added Pin To Net: NetName=NetC27_AUDIN1_2 Pin=U3_AUDIN1-6
+Added Pin To Net: NetName=GND Pin=U3_AUDIN1-7
+Added Pin To Net: NetName=NetC26_AUDIN1_1 Pin=U3_AUDIN1-8
+Added Pin To Net: NetName=NetH4_AUDIN1_2 Pin=U3_AUDIN1-9
+Added Pin To Net: NetName=VCC 3.3V Pin=U3_AUDIN1-10
+Added Pin To Net: NetName=GND Pin=U3_AUDIN1-11
+Added Pin To Net: NetName=NetC29_AUDIN1_2 Pin=U3_AUDIN1-12
+Added Pin To Net: NetName=NetR25_AUDIN1_1 Pin=U3_AUDIN1-13
+Added Pin To Net: NetName=NetR25_AUDIN1_2 Pin=U3_AUDIN1-14
+Added Pin To Net: NetName=GND Pin=U3_AUDIN1-15
+Added Pin To Net: NetName=NetC28_AUDIN2_2 Pin=U3_AUDIN2-1
+Added Pin To Net: NetName=VCC 3.3V Pin=U3_AUDIN2-2
+Added Pin To Net: NetName=NetC31_AUDIN2_2 Pin=U3_AUDIN2-3
+Added Pin To Net: NetName=GND Pin=U3_AUDIN2-4
+Added Pin To Net: NetName=VCC 3.3V Pin=U3_AUDIN2-5
+Added Pin To Net: NetName=NetC27_AUDIN2_2 Pin=U3_AUDIN2-6
+Added Pin To Net: NetName=GND Pin=U3_AUDIN2-7
+Added Pin To Net: NetName=NetC26_AUDIN2_1 Pin=U3_AUDIN2-8
+Added Pin To Net: NetName=NetH4_AUDIN2_2 Pin=U3_AUDIN2-9
+Added Pin To Net: NetName=VCC 3.3V Pin=U3_AUDIN2-10
+Added Pin To Net: NetName=GND Pin=U3_AUDIN2-11
+Added Pin To Net: NetName=NetC29_AUDIN2_2 Pin=U3_AUDIN2-12
+Added Pin To Net: NetName=NetR25_AUDIN2_1 Pin=U3_AUDIN2-13
+Added Pin To Net: NetName=NetR25_AUDIN2_2 Pin=U3_AUDIN2-14
+Added Pin To Net: NetName=GND Pin=U3_AUDIN2-15
+Added Pin To Net: NetName=NetC28_AUDIN3_2 Pin=U3_AUDIN3-1
+Added Pin To Net: NetName=VCC 3.3V Pin=U3_AUDIN3-2
+Added Pin To Net: NetName=NetC31_AUDIN3_2 Pin=U3_AUDIN3-3
+Added Pin To Net: NetName=GND Pin=U3_AUDIN3-4
+Added Pin To Net: NetName=VCC 3.3V Pin=U3_AUDIN3-5
+Added Pin To Net: NetName=NetC27_AUDIN3_2 Pin=U3_AUDIN3-6
+Added Pin To Net: NetName=GND Pin=U3_AUDIN3-7
+Added Pin To Net: NetName=NetC26_AUDIN3_1 Pin=U3_AUDIN3-8
+Added Pin To Net: NetName=NetH4_AUDIN3_2 Pin=U3_AUDIN3-9
+Added Pin To Net: NetName=VCC 3.3V Pin=U3_AUDIN3-10
+Added Pin To Net: NetName=GND Pin=U3_AUDIN3-11
+Added Pin To Net: NetName=NetC29_AUDIN3_2 Pin=U3_AUDIN3-12
+Added Pin To Net: NetName=NetR25_AUDIN3_1 Pin=U3_AUDIN3-13
+Added Pin To Net: NetName=NetR25_AUDIN3_2 Pin=U3_AUDIN3-14
+Added Pin To Net: NetName=GND Pin=U3_AUDIN3-15
+Added Pin To Net: NetName=NetC28_AUDIN4_2 Pin=U3_AUDIN4-1
+Added Pin To Net: NetName=VCC 3.3V Pin=U3_AUDIN4-2
+Added Pin To Net: NetName=NetC31_AUDIN4_2 Pin=U3_AUDIN4-3
+Added Pin To Net: NetName=GND Pin=U3_AUDIN4-4
+Added Pin To Net: NetName=VCC 3.3V Pin=U3_AUDIN4-5
+Added Pin To Net: NetName=NetC27_AUDIN4_2 Pin=U3_AUDIN4-6
+Added Pin To Net: NetName=GND Pin=U3_AUDIN4-7
+Added Pin To Net: NetName=NetC26_AUDIN4_1 Pin=U3_AUDIN4-8
+Added Pin To Net: NetName=NetH4_AUDIN4_2 Pin=U3_AUDIN4-9
+Added Pin To Net: NetName=VCC 3.3V Pin=U3_AUDIN4-10
+Added Pin To Net: NetName=GND Pin=U3_AUDIN4-11
+Added Pin To Net: NetName=NetC29_AUDIN4_2 Pin=U3_AUDIN4-12
+Added Pin To Net: NetName=NetR25_AUDIN4_1 Pin=U3_AUDIN4-13
+Added Pin To Net: NetName=NetR25_AUDIN4_2 Pin=U3_AUDIN4-14
+Added Pin To Net: NetName=GND Pin=U3_AUDIN4-15
+Added Member To Class: ClassName=AUDIN1 Member=Component U3_AUDIN1 (U3) MAX9814ETD+T
+Added Member To Class: ClassName=AUDIN2 Member=Component U3_AUDIN2 (U3) MAX9814ETD+T
+Added Member To Class: ClassName=AUDIN3 Member=Component U3_AUDIN3 (U3) MAX9814ETD+T
+Added Member To Class: ClassName=AUDIN4 Member=Component U3_AUDIN4 (U3) MAX9814ETD+T
