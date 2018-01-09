@@ -2,10 +2,15 @@
 Dieses Projekt wurde entwickelt, um Audio mit dem Funkmodul NRF24L01 (vorzugsweise die PA LNA - Version) zu senden bzw. zu empfangen.
 Das System arbeitet mit zwei frequenzgeteilten Kanälen. Als Sender ist der STM32F405RGT und als Empfänger der STM32F051C8T6 Mikrokontroller im Einsatz.
 
+Ich möchte versuchen, das System als kostengünstiges "Public Tour Guide System" umzufunktionieren.
+
+
 Benützte Libraries: TM, CubeMX
 
-https://community.st.com/docs/DOC-1405-my-project  - Einige Informationen über das Projekt und die erste Version.
 
+Danke an Oleksandr Neuimin für die Bereitstellung seines Projektes!
+
+https://community.st.com/docs/DOC-1405-my-project  - Einige Informationen über das Projekt und die erste Version.
 Hilfreiche Quellen:
 1. http://blog.blackoise.de/2016/02/fixing-your-cheap-nrf24l01-palna-module/
 2. https://forum.mysensors.org/topic/1877/solved-2-x-nrf24l01-pa-lna-with-rf24_pa_max
